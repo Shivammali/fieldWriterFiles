@@ -1,0 +1,32 @@
+package controlstatement;
+
+public class if_statement {
+
+	public static void main(String[] args) {
+		
+		int salary=17000;
+		
+		if(salary<15000) {
+			System.out.println("your salary is not greater than 15000:");		
+		}
+	  {
+			
+			System.out.println("your salary is greater than 15000:");
+			
+		}
+		
+		int amount=10000;
+		
+		if(amount>50000) {
+			System.out.println("amount is greater than 50000");
+				
+		}
+		else {
+			System.out.println("amount is not greater than 50000");
+			
+			
+		}
+		 		
+	}
+
+}

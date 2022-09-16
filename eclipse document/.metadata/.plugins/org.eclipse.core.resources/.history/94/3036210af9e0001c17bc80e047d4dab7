@@ -1,0 +1,11 @@
+package Spacial_Logic_Programme;
+
+public class Even_odd_challenge {
+
+	public static void main(String[] args) {
+     
+		System.out.println("All even numbers:");
+
+	}
+
+}

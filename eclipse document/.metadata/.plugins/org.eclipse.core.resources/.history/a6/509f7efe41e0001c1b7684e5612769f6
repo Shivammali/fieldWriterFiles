@@ -1,0 +1,23 @@
+package Spacial_Logic_Programme;
+
+public class Even_Odd_numbers {
+
+	public static void main(String[] args) {
+		  int b=0;
+		for( int i=1;i<=100;i++) {
+			
+			if(i%2==0) {
+			 b++;	
+			break;
+			
+			}
+		}
+		if( b==0) {
+			System.out.println( "even numbers");
+			}
+		else {
+			
+			System.out.println( "odd numbers");
+		}
+	}
+}	

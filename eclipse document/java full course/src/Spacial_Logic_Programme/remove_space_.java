@@ -1,0 +1,20 @@
+package Spacial_Logic_Programme;
+
+public class remove_space_ {
+
+	public static void main(String[] args) {
+		
+		String str="the sun is a brightest star";
+		
+         System.out.println("the given string is:"+str);
+         
+         System.out.println("---------------------");
+         
+        // System.out.println(""); 
+         
+         String newstr=str.replaceAll("\\s","");
+         
+         System.out.println("the space remove string is:"+newstr);
+	}
+
+}

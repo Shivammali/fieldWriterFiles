@@ -1,0 +1,25 @@
+package collection;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.ArrayList;
+
+public class Arraylist2 {
+
+	public static void main(String[] args) {
+		
+		ArrayList a=new ArrayList();
+		
+		a.add(12);
+		a.add("siddhesh");
+		a.add(10);
+		a.add("shivam");
+		a.add(17);
+		
+		System.out.println(a);
+		
+		//Collections.sort(a);
+		
+       // System.out.println(a);
+	}
+
+}

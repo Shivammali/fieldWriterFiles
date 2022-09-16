@@ -1,0 +1,15 @@
+package incapsulation;
+
+public class incapsulation_B {
+
+	public static void main(String[] args) {
+		
+		 incapsulation_A ab=new  incapsulation_A();
+		        
+		 ab.getdata();
+		 ab.setdata(0);
+         ab.Getdata();
+         ab.setdata(null);
+	}
+
+}

@@ -1,0 +1,24 @@
+package sampleprogramm;
+
+public class Variable_1 {
+         
+	     int a=35;//instsnce variable
+	     static int b=45;//static variable
+	     
+	    		 
+		public void test1(){ //nonstatic method
+			int d=67;//local variable
+			
+		} 
+		
+		
+		
+		public static void test3(){ //static method
+			int c=23;//local variable
+		    System.out.println(c);
+		}
+		
+
+	}
+
+

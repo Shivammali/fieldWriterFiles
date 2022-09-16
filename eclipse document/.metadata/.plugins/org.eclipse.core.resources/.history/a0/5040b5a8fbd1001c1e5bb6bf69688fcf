@@ -1,0 +1,10 @@
+package sampleprogramm;// create package
+
+public class Siddhesh { // create class
+
+	public static void main (String[]args) { // main method
+		
+		System.out.println ("siddhesh sawant"); // printing statement
+		System.out.println ("sawantwadi");
+	}
+}

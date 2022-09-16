@@ -1,0 +1,21 @@
+package sampleprogramm;
+
+public class First {
+	
+	First(){ //zero arguement constructer
+		
+		System.out.println("siddhesh vasant sawant");
+		
+	}
+	
+	First(int a){ //parameterised constructer
+		System.out.println("poonam vasant sawant");
+		
+	}
+
+	public static void main(String[] args) {
+		
+ 
+	}
+    First ab=new First();
+}

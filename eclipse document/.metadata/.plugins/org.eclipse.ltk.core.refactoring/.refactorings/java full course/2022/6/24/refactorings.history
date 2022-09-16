@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Spacial_Logic_Programme.count_digit_fing&apos; to &apos;count_digit_find&apos;&#x0D;&#x0A;- Original project: &apos;java full course&apos;&#x0D;&#x0A;- Original element: &apos;Spacial_Logic_Programme.count_digit_fing&apos;&#x0D;&#x0A;- Renamed element: &apos;Spacial_Logic_Programme.count_digit_find&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;count_digit_fing&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Spacial_Logic_Programme{count_digit_fing.java[count_digit_fing" matchStrategy="1" name="count_digit_find" qualified="false" references="true" similarDeclarations="false" stamp="1654610423373" textual="false" version="1.0"/>
+</session>

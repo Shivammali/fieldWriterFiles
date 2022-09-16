@@ -1,0 +1,17 @@
+package oops_casting_conversion_nonprimitive;
+
+public class AAA extends BBB {
+	
+	public void test1() {
+		
+		System.out.println(5000);
+	}
+	
+	public static void main(String[] args) {
+		
+		BBB ab=new AAA();
+		
+         ab.test();
+	}
+
+}

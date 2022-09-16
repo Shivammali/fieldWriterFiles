@@ -1,0 +1,17 @@
+package Spacial_Logic_Programme;
+
+public class Reverse_String {
+
+	public static void main(String[] args) {
+		
+		String str="The Sun";
+		String reverse=" ";
+		char a[]=str.toCharArray();
+		
+		System.out.println("Given String is="+str);
+		
+		
+
+	}
+
+}

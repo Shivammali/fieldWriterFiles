@@ -1,0 +1,19 @@
+package Array;
+
+public class main2 {
+
+	public static void main(String[] args) {//with object
+		
+        int a[]=new int[5];
+        
+        a[0]=50;
+        a[1]=10;
+        a[2]=20;
+        a[3]=40;
+        a[4]=30;
+        
+        
+	}
+
+	
+}

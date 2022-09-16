@@ -1,0 +1,15 @@
+package controlstatement;
+
+public class And_Or_ {
+
+	public static void main(String[] args) {
+		int marks=75;
+		
+	if(marks>=60 && marks>=80) {
+		
+		System.out.println("distinguation");
+	}
+
+	}
+
+}

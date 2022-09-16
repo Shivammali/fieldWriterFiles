@@ -1,0 +1,30 @@
+package controlstatement;
+
+public class Switch_statement {
+
+	public static void main(String[] args) {
+	
+		String days="A";
+		switch(days) {
+		
+		case"A":
+			System.out.println("monday");
+		
+		case"B":
+			System.out.println("tuseday");
+		
+		case"C":
+			System.out.println("wednseday");
+			
+		case"D":
+			System.out.println("thurseday");	
+			
+		case"E":
+			System.out.println("friday");	
+			
+			
+		}
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package Spacial_Logic_Programme;
+
+public class Pallondrom_string {
+
+	public static void main(String[] args) {
+		
+		String str="nitin";
+		String reverse=" ";
+		System.out.println("given String is:"+str);
+
+	}
+
+}

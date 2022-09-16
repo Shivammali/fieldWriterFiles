@@ -1,0 +1,20 @@
+ package oops_abstraction_interface;
+
+public class impliment implements interface1{
+	
+	public void test() {
+		
+		System.out.println("details of employee");
+	}
+	
+	public static void main(String[]args) {
+		
+		impliment ab=new impliment ();
+		
+		ab.test();
+		ab.test1();
+		interface1.test3();
+		
+	}
+
+}

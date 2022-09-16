@@ -1,0 +1,21 @@
+package Spacial_Logic_Programme;
+
+public class Even_Odd_numbers {
+
+	public static void main(String[] args) {
+			
+		int no=20;
+			
+		if(no%2==0) {
+			
+			System.out.println("even");
+		}
+		else {
+			
+			System.out.println("odd");
+		}
+	  }
+	
+	}
+
+

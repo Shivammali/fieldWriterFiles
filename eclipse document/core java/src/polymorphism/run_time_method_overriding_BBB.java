@@ -1,0 +1,12 @@
+package polymorphism;
+
+public class run_time_method_overriding_BBB {
+	
+	 public void show() {
+			
+			System.out.println("method no 2");
+		}
+
+
+	
+}

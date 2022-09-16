@@ -1,0 +1,11 @@
+package Array;
+
+public class main {
+
+	public static void main(String[] args) {
+	
+		String[]cars= {"volvo","BMW","ford"};
+        System.out.println(cars[0]);
+	}
+
+}

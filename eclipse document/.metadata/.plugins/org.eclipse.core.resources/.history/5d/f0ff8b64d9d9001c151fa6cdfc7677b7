@@ -1,0 +1,19 @@
+package Operators_in_java;
+
+public class Unary_Operator {
+
+	public static void main(String[] args) {
+		
+     int e=9;
+     System.out.println(9<<2);
+     System.out.println();
+     System.out.println();
+     System.out.println();
+     
+     
+     
+     
+	}
+
+}
+                             

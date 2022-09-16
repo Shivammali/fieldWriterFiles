@@ -1,0 +1,16 @@
+package Array;
+
+public class main {
+
+	public static void main(String[] args) {
+	
+		String[]cars= {"volvo","BMW","ford"};
+		
+		for(int i=0;i<4;i++) {
+			
+			 System.out.println(cars[i]);	
+		}
+       
+	}
+
+}

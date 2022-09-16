@@ -1,0 +1,17 @@
+package controlstatement;
+
+public class if_statement {
+
+	public static void main(String[] args) {
+		
+	int f=10;
+	if(f<15){
+		
+	System.out.println("vallue is greater than 15");
+	}
+	
+	//System.out.println("vallue is greater than 15");
+	
+	}	
+
+}

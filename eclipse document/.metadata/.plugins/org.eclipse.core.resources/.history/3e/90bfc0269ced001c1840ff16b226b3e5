@@ -1,0 +1,18 @@
+package oops_abstraction_abstract_class;
+
+abstract class Abstract_class {
+	
+	abstract public void test(); //incomplete method
+		
+		public static void test1() { //complete method
+			
+			System.out.println(2000);
+		}
+	
+		Abstract_class () { // constructor
+			
+		System.out.println("mla constructor mdhun call kelay");
+		
+			
+		}
+}

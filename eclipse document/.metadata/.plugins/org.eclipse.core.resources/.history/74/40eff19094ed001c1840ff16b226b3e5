@@ -1,0 +1,7 @@
+package oops_abstraction_abstract_class;
+
+abstract class vehicle {
+	
+	abstract void start();
+
+}

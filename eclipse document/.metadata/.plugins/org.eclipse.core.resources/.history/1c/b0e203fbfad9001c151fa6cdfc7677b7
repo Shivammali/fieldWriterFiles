@@ -1,0 +1,13 @@
+package Operators_in_java;
+
+public class shift_operator {
+	 int a=8;
+
+	public static void main(String[] args) {
+		
+       System.out.println(a<<3);//8*2*2*2=64
+       System.out.println(5<<3);//5*2*2*2=40
+        
+	}
+
+}

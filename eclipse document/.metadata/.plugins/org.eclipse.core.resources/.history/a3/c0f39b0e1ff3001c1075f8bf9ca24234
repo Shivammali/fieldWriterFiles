@@ -1,0 +1,13 @@
+package collection;
+import java.util.ArrayList;
+
+public class siddhesh {
+
+	public static void main(String[] args) {
+		
+		siddhesh<String> a=new siddhesh<String>();
+		
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Spacial_Logic_Programme.Amstrong_number&apos; to &apos;Armstrong_number&apos;&#x0D;&#x0A;- Original project: &apos;java full course&apos;&#x0D;&#x0A;- Original element: &apos;Spacial_Logic_Programme.Amstrong_number&apos;&#x0D;&#x0A;- Renamed element: &apos;Spacial_Logic_Programme.Armstrong_number&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Amstrong_number&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Spacial_Logic_Programme{Amstrong_number.java[Amstrong_number" matchStrategy="1" name="Armstrong_number" qualified="false" references="true" similarDeclarations="false" stamp="1654090348613" textual="false" version="1.0"/>
+</session>

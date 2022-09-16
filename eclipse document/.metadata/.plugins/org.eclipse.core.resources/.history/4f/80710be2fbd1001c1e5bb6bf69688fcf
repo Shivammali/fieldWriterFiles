@@ -1,0 +1,9 @@
+package sampleprogramm;// create package
+
+public class MethodType { // create class
+
+	public static void test() { // main method
+		
+		System.out.println ("static method running); // printing statement
+	}
+}

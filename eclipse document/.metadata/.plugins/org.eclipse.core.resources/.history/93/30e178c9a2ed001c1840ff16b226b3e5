@@ -1,0 +1,21 @@
+package oops_abstraction_interface;
+
+interface interface1 {
+	
+	public void test();
+	
+	default void test1() {
+		 //test4();
+		System.out.println("employee id:"+101);
+	}
+	
+	public static void test3() {
+		
+		System.out.println("employee name:"+"siddhesh");
+	}
+	
+	private void test4() {
+		
+		System.out.println("employee address:"+"pune");
+	}
+}

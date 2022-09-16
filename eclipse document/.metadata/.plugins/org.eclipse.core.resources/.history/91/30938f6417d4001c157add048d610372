@@ -1,0 +1,31 @@
+package sampleprogramm;
+
+public class Variable_1 {
+         
+	     int a=35;//instsnce variable
+	     static int b=45;//static variable
+	     
+	    		 
+		public void test1(){ //nonstatic method
+			int d=67;//local variable
+			System.out.println("vallue of D="+d);
+			System.out.println("vallue of A="+a);
+			System.out.println("vallue of B="+b);
+		} 
+		
+		
+		
+		public static void test3(){ //static method
+			int c=23;//local variable
+			System.out.println("vallue of C="+c);
+			System.out.println("vallue of B="+b);
+		}
+		
+        public static void main(String[]args) {
+        
+        	
+        	test3();
+        }
+	}
+
+

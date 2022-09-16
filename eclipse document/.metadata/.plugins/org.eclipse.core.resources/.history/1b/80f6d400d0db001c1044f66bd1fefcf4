@@ -1,0 +1,17 @@
+package controlstatement;
+
+import java.util.Scanner;
+
+public class ScannerClass {
+
+	public static void main(String[] args) {
+		System.out.println("my name is:");
+		
+	
+		Scanner scan=new Scanner(System.in);
+		
+	
+	
+	}
+
+}

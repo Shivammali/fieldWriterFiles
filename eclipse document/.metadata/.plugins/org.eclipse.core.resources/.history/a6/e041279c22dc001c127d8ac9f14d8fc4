@@ -1,0 +1,32 @@
+package controlstatement;
+
+public class siddhesh {
+
+	public static void main(String[] args) {
+
+		String username ="siddhesh";
+		
+		String pwd ="siddhesh@123";
+		
+		if( username=="siddhesh") {
+		if( pwd=="siddhesh@12"){
+			
+			System.out.println("log in successfully:");
+			
+		if( username==pwd) {
+			
+			
+		}else {
+			System.out.println("please enter correct password:");		
+			
+		}
+		
+		}else {
+			System.out.println("please enter correct username:");		
+			
+		}
+
+		}
+		
+		}
+}

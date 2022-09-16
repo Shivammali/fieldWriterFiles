@@ -1,0 +1,28 @@
+package Array;
+
+public class main2 {
+
+	public static void main(String[] args) {//with object
+		
+        int a[]=new int[5];
+        
+        a[0]=50;
+        a[1]=10;
+        a[2]=20;
+        a[3]=40;
+        a[4]=30;
+        
+        int len=a.length;
+        System.out.println(len);
+        
+        System.out.println"given index");
+        
+        for(int i=0;i<len;i++) {
+        System.out.println(a[i]);	
+        	
+        	
+        }
+	}
+
+	
+}

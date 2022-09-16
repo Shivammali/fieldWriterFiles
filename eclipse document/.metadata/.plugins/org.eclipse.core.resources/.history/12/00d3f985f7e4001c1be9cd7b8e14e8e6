@@ -1,0 +1,32 @@
+package Spacial_Logic_Programme;
+
+public class Pallondrom_string {
+
+	public static void main(String[] args) {
+		
+		String  str="nitin"; 
+		String  reverse="";
+		System.out.println("Given  String  is  "+str);
+		char[]  a  =  str.toCharArray();//4
+		int  len  =  str.length();//5
+		
+		for(int  i=len-1;i>=0;i--)
+		{
+		reverse=reverse+a[i];
+		}
+		 
+		
+		
+		if(str.equals(reverse)) 
+		{
+
+		System.out.println("Given  String  is  Palindrome");
+		 
+
+		}
+		else{
+		System.out.println("Given  String  is  not  Pallondrome");
+
+		}
+	}
+}

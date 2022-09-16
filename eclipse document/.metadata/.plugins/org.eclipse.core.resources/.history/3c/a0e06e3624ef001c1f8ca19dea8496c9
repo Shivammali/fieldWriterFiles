@@ -1,0 +1,11 @@
+package incapsulation;
+
+public class incapsulation_B {
+
+	public static void main(String[] args) {
+		
+		incapsulation_B ab=new incapsulation_B();
+		
+	}
+
+}

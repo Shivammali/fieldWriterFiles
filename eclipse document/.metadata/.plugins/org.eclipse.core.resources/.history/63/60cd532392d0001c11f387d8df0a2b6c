@@ -1,0 +1,9 @@
+
+public class svs {
+
+	public static void main(String[] args) {
+		System.out.println("kalambist");
+
+	}
+
+}
